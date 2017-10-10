@@ -12,7 +12,7 @@
         <Entry ></Entry>
 
         <Button Text="Pulse"></Button>
-        
-        
+
+        <Label Text="Digite su nombre2"></Label>
     </StackLayout>
 </ContentPage>
